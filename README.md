@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **czarcodes@gmail.com**
 
-- ⚡ Fun fact **Coffee > 3**
+- ⚡ Fun fact **I don't sleepp**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
