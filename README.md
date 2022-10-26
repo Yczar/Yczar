@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yczar</h1>
-<h3 align="center">A passionate Mobile developer from Nigeria</h3>
+<h3 align="center">A top-tier Flutter Developer </h3>
+<h5 align="center">Play around the massive list of repositories... I created them for you</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yczar&label=Profile%20views&color=0e75b6&style=flat" alt="yczar" /> </p>
 
@@ -15,7 +16,7 @@
 
 - 💬 Ask me about **Flutter, Kotlin and Java**
 
-- 📫 Code, Coffee, **Code*
+- 📫 Code, Coffee, **Code**
 
 - ⚡ Home is where **wifi** connects automatically
 
