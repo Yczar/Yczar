@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/czarify" target="blank"><img src="https://img.shields.io/twitter/follow/czarify?logo=twitter&style=for-the-badge" alt="czarify" /></a> </p>
 
-- 🔭 I’m currently working on **Lotta Project**
+- 🔭 I always work hard to make your life**easy**
 
-- 🌱 I’m currently learning **Ai and Arduino**
+- 🌱 Others’ dream is our **hard work**
 
-- 👯 I’m looking to collaborate on **Your flutter projects**
+- 👯 It's not a bug **It's a feature**
 
 - 💬 Ask me about **Flutter, Kotlin and Java**
 
-- 📫 How to reach me **czarcodes@gmail.com**
+- 📫 Code, Coffee, **Code*
 
-- ⚡ Fun fact **I don't sleep**
+- ⚡ Home is where **wifi** connects automatically
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
