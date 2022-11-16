@@ -19,7 +19,6 @@
 - 📫 Code, Coffee, **Code**
 
 - ⚡ Home is where **wifi** connects automatically
-<a href="https://stardev.io/developers/Yczar"><img alt="Check out Yczar's profile on stardev.io" src="https://stardev.io/developers/Yczar/badge/languages/country.svg" /></a>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
