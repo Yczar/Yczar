@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter, Kotlin and Java**
 
-- 📫 Code, Coffee, **Code**
+- 📫 Code, Coffee, **Code.**
 
 - ⚡ Home is where **wifi** connects automatically
 ### Blogs posts
