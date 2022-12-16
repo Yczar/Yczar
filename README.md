@@ -1,6 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Yczar</h1>
-<h3 align="center">A top-tier Flutter Developer </h3> -->
-<h5 align="center">Play around the massive list of repositories... I created them for you</h5>
+<h1 align="center">Hi 👋, I'm Ayotomide(czar)</h1>
+<h3 align="center">A top-tier Flutter Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yczar&label=Profile%20views&color=0e75b6&style=flat" alt="yczar" /> </p>
 
