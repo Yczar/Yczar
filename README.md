@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yczar</h1>
-<h3 align="center">A top-tier Flutter Developer </h3>
+<!-- <h1 align="center">Hi 👋, I'm Yczar</h1>
+<h3 align="center">A top-tier Flutter Developer </h3> -->
 <h5 align="center">Play around the massive list of repositories... I created them for you</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yczar&label=Profile%20views&color=0e75b6&style=flat" alt="yczar" /> </p>
@@ -8,17 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/czarify" target="blank"><img src="https://img.shields.io/twitter/follow/czarify?logo=twitter&style=for-the-badge" alt="czarify" /></a> </p>
 
-- 🔭 I always work hard to make your life**easy**
+Hello and welcome to my GitHub profile! My name is Ayotomide Babalola(czar) and I am a Flutter developer and open source enthusiast.
 
-- 🌱 Others’ dream is our **hard work**
+I have always been drawn to the power and potential of open source technology, and am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
-- 👯 It's not a bug **It's a feature**
+In my projects, you'll find a range of Flutter apps and libraries that showcase my skills and interests. From utility tools to beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
 
-- 💬 Ask me about **Flutter, Kotlin and Java**
+If you have any questions or just want to chat about Flutter and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
-- 📫 Code, Coffee, **Code.**
-
-- ⚡ Home is where **wifi** connects automatically
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
