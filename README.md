@@ -9,7 +9,7 @@
 
 Hello and welcome to my GitHub profile! My name is Ayotomide Babalola(czar) and I am a Flutter developer and open source enthusiast.
 
-I have always been drawn to the power and potential of open source technology, and am passionate about contributing to and learning from the amazing community of developers on GitHub.
+I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
 
 In my projects, you'll find a range of Flutter apps and libraries that showcase my skills and interests. From utility tools to beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
 
