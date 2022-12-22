@@ -25,6 +25,9 @@ If you have any questions or just want to chat about Flutter and open source dev
 <a href="https://instagram.com/czarfy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="czarfy" height="30" width="40" /></a>
 <a href="https://medium.com/@ayotomideb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayotomideb" height="30" width="40" /></a>
 </p>
+---
+
+## Client Projects And Apps on The Stores
 
 <table>
 	<tbody width="100%">
@@ -35,7 +38,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 	<tr>
 	<td>
 			<h3>DevFest Akure App</h3>
-			<p>This app is your one-stop-shop for everything you need to know about the conference, including the schedule, location, speakers, and sponsors. With the app, you can create a personalized schedule and receive updates and notifications about the event. You can also interact with other attendees and connect with the tech community in Akure. Plus, the app offers information about the city and local attractions, as well as resources for attendees traveling to the event<a href="https://gdg.community.dev/events/details/google-gdg-akure-presents-devfest-akure-2022/">Multicaret</a></p>
+			<p>This app is your one-stop-shop for everything you need to know about the conference, including the schedule, location, speakers, and sponsors. With the app, you can create a personalized schedule and receive updates and notifications about the event. You can also interact with other attendees and connect with the tech community in Akure. Plus, the app offers information about the city and local attractions, as well as resources for attendees traveling to the event<a href="https://gdg.community.dev/events/details/google-gdg-akure-presents-devfest-akure-2022/"> DevFest 2022</a></p>
 			<p>🗓 December 2022</p>
 		</td>
 		<td>
