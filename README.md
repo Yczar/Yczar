@@ -26,6 +26,32 @@ If you have any questions or just want to chat about Flutter and open source dev
 <a href="https://medium.com/@ayotomideb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayotomideb" height="30" width="40" /></a>
 </p>
 
+<table>
+	<tbody width="100%">
+	<tr>
+		<th>Project</th>	
+		<th>Links</th>
+	</tr>
+	<tr>
+	<td>
+			<h3>DevFest Akure App</h3>
+			<p>This app is your one-stop-shop for everything you need to know about the conference, including the schedule, location, speakers, and sponsors. With the app, you can create a personalized schedule and receive updates and notifications about the event. You can also interact with other attendees and connect with the tech community in Akure. Plus, the app offers information about the city and local attractions, as well as resources for attendees traveling to the event<a href="https://gdg.community.dev/events/details/google-gdg-akure-presents-devfest-akure-2022/">Multicaret</a></p>
+			<p>🗓 December 2022</p>
+		</td>
+		<td>
+			<div>
+				<a href="https://play.google.com/store/apps/details?id=com.multicaret.manarati.app">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Manarati on Google Play" />
+</a>
+			</div>
+			<div>
+<a href="https://apps.apple.com/app/manarati-prayer-times-no-ads/id1617510727">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Manarati on iOS App Store" />
+</a>
+			</div>
+    </tbody>
+</table>
+
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
 
@@ -34,7 +60,6 @@ If you have any questions or just want to chat about Flutter and open source dev
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yczar&show_icons=true&locale=en&theme=onedark" alt="yczar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="yczar" /></p>
-
 
 <!--
 **Yczar/Yczar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
