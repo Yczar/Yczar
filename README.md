@@ -43,13 +43,13 @@ If you have any questions or just want to chat about Flutter and open source dev
 		</td>
 		<td>
 			<div>
-				<a href="https://play.google.com/store/apps/details?id=com.multicaret.manarati.app">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Manarati on Google Play" />
+				<a href="https://play.google.com/store/apps/details?id=com.gdgakure.devfest2">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="DevFest on Google Play" />
 </a>
 			</div>
 			<div>
-<a href="https://apps.apple.com/app/manarati-prayer-times-no-ads/id1617510727">
-  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Manarati on iOS App Store" />
+<a href="">
+  <img width="200px" src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="DevFest on iOS App Store" />
 </a>
 			</div>
     </tbody>
