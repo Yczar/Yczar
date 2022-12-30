@@ -71,7 +71,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 				<img src="https://user-images.githubusercontent.com/32166619/210069480-eb37b579-2382-4339-b0dc-54929c6b5f13.gif" alt="Flash light styled Bottom Navigation"></img>
 			</td>
 			<td>
-			<video src="https://user-images.githubusercontent.com/32166619/210070148-c6f13a34-e447-4453-a395-f68f8952d38b.mp4" alt="Windows UI using Flutter"></video>
+			<img src="https://user-images.githubusercontent.com/32166619/210072762-31cea3cf-9ffb-4fce-96cf-3e099c2e95ea.gif" alt="Windows UI using Flutter"></img>
 			</td>
 		</tr>
 		<tr>
