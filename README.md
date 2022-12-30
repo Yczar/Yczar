@@ -54,6 +54,28 @@ If you have any questions or just want to chat about Flutter and open source dev
 			</div>
     </tbody>
 </table>
+## Animation and UI Challenges
+
+<table>
+	<tbody width="100%">
+		<tr>
+			<th>Toolbar</th>	
+			<th>Card Swiper</th>	
+			<th>3D Calculator</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/32166619/207008038-ec7388f6-25ee-418f-914c-d7aa9be8d258.gif" alt="Shoes Animation"></img>
+			</td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/32166619/210069480-eb37b579-2382-4339-b0dc-54929c6b5f13.gif" alt="Flash light styled bottom navigation"></img>
+			</td>
+			<td>
+			<img src="https://user-images.githubusercontent.com/32166619/210070148-c6f13a34-e447-4453-a395-f68f8952d38b.mp4" alt="Windows UI using Flutter"></img>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> -->
