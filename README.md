@@ -90,7 +90,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 		</tr>
 		<tr>
 			<th>3D Card Animation</th>	
-			<th>Flash light styled Bottom Navigation</th>	
+			<th>Favorite Places UI</th>	
 			<th>Card Swipe Flutter</th>
 		</tr>
 		<tr>
