@@ -54,6 +54,9 @@ If you have any questions or just want to chat about Flutter and open source dev
 			</div>
     </tbody>
 </table>
+
+---
+
 ## Animation and UI Challenges
 
 <table>
