@@ -63,7 +63,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 	<tbody width="100%">
 		<tr>
 			<th>Shoes Animation</th>	
-			<th>Flash light styled bottom navigation</th>	
+			<th>Flash light styled Bottom Navigation</th>	
 			<th>Windows UI using Flutter</th>
 		</tr>
 		<tr>
@@ -83,6 +83,33 @@ If you have any questions or just want to chat about Flutter and open source dev
 			</td>
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1608118401343578113?s=20">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/czarify/status/1582729505977749509?s=20">Tweet</a>
+			</td>
+		</tr>
+		<tr>
+			<th>3D Card Animation</th>	
+			<th>Flash light styled Bottom Navigation</th>	
+			<th>Card Swipe Flutter</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/32166619/210073354-c802d4fa-e28c-4afe-8045-fa7132542727.gif" alt="3D Card Animation"></img>
+			</td>
+			<td>
+				<img src="https://user-images.githubusercontent.com/32166619/210073809-850bef12-9634-40e7-859e-48e8565ed451.gif" alt="Favorite Places UI"></img>
+			</td>
+			<td>
+			<img src="https://user-images.githubusercontent.com/32166619/210074020-293fd523-9449-4ff4-913b-15768ff1c10f.gif" alt="Card Swipe FLutter"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://twitter.com/czarify/status/1605612977356304384?s=20">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/czarify/status/1577253920845406209?s=20">Tweet</a>
 			</td>
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1582729505977749509?s=20">Tweet</a>
