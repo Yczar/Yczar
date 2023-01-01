@@ -9,12 +9,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/czarify" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="czarify" height="30" width="40" /></a>
-<a href="https://instagram.com/czarfy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="czarfy" height="30" width="40" /></a>
-<a href="https://medium.com/@ayotomideb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayotomideb" height="30" width="40" /></a>
-</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yczar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yczar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yczar&show_icons=true&locale=en&theme=onedark" alt="yczar" /></p>
@@ -31,9 +25,12 @@ In my projects, you'll find a range of Flutter apps and libraries that showcase 
 
 If you have any questions or just want to chat about Flutter and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/czarify" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="czarify" height="30" width="40" /></a>
+<a href="https://instagram.com/czarfy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="czarfy" height="30" width="40" /></a>
+<a href="https://medium.com/@ayotomideb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ayotomideb" height="30" width="40" /></a>
+</p>
 
 ---
 
