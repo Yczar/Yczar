@@ -27,6 +27,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 
 <h3 align="left">Connect with me:</h3>
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayotomideb)
+
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/czarify)
 
 <p align="left">
