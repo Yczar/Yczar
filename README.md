@@ -7,17 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/czarify" target="blank"><img src="https://img.shields.io/twitter/follow/czarify?logo=twitter&style=for-the-badge" alt="czarify" /></a> </p>
 
-Hello and welcome to my GitHub profile! My name is Ayotomide Babalola(czar) and I am a Flutter developer and open source enthusiast.
-
-I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
-
-In my projects, you'll find a range of Flutter apps and libraries that showcase my skills and interests. From utility tools to beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
-
-If you have any questions or just want to chat about Flutter and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +20,20 @@ If you have any questions or just want to chat about Flutter and open source dev
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yczar&show_icons=true&locale=en&theme=onedark" alt="yczar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="yczar" /></p>
+
+---
+
+Hello and welcome to my GitHub profile! My name is Ayotomide Babalola(czar) and I am a Flutter developer and open source enthusiast.
+
+I have always been drawn to the power and potential of open source technology, and I am passionate about contributing to and learning from the amazing community of developers on GitHub.
+
+In my projects, you'll find a range of Flutter apps and libraries that showcase my skills and interests. From utility tools to beautifully designed user interfaces, I am constantly pushing myself to learn and create new things with Flutter.
+
+If you have any questions or just want to chat about Flutter and open source development, don't hesitate to reach out! I'm always happy to connect with like-minded developers and collaborate on new ideas.
+
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
