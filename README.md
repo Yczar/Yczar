@@ -31,9 +31,9 @@ If you have any questions or just want to chat about Flutter and open source dev
 
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/czarify)
 
-[![](https://img.shields.io/badge/youtube-%230077B5.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO_ydm-DWmWzxNY9-QecpOg)
+[![](https://img.shields.io/badge/youtube-%12100E.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO_ydm-DWmWzxNY9-QecpOg)
 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/czarfy)
+[![](https://img.shields.io/badge/instagram-%12100E.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/czarfy)
 
 ---
 
