@@ -72,7 +72,9 @@ If you have any questions or just want to chat about Flutter and open source dev
 		<tr>
 			<td>
 				<img src="https://user-images.githubusercontent.com/32166619/211872067-720076e7-8a2d-403a-aa85-49c6a1a9b9fd.gif" alt="3D Solar System"></img>
-				<img src="https://user-images.githubusercontent.com/32166619/211874512-5d5c0b0c-e32f-4d34-8d66-add1b18427a3.gif" alt="Weather App Animation"></img>
+			</td>
+			<td>
+			<img src="https://user-images.githubusercontent.com/32166619/211874512-5d5c0b0c-e32f-4d34-8d66-add1b18427a3.gif" alt="Weather App Animation"></img>
 			</td>
 		</tr>
 		<tr>
