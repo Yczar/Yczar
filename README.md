@@ -67,15 +67,18 @@ If you have any questions or just want to chat about Flutter and open source dev
 	<tbody width="100%">
 	<tr>
 			<th>3D Solar System</th>	
+			<th>Weather App Animation</th>	
 		</tr>
 		<tr>
 			<td>
 				<img src="https://user-images.githubusercontent.com/32166619/211872067-720076e7-8a2d-403a-aa85-49c6a1a9b9fd.gif" alt="3D Solar System"></img>
+				<img src="https://user-images.githubusercontent.com/32166619/211874512-5d5c0b0c-e32f-4d34-8d66-add1b18427a3.gif" alt="Weather App Animation"></img>
 			</td>
 		</tr>
 		<tr>
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1613090828054073345?s=20&t=xMTAcGtGOsW2bzeGXyWfMg">Tweet</a>
+				🔗 <a href="https://twitter.com/czarify/status/1611279950870372353?s=20&t=xMTAcGtGOsW2bzeGXyWfMg">Tweet</a>
 			</td>
 		</tr>
 		<tr>
