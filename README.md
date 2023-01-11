@@ -78,6 +78,8 @@ If you have any questions or just want to chat about Flutter and open source dev
 		<tr>
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1613090828054073345?s=20&t=xMTAcGtGOsW2bzeGXyWfMg">Tweet</a>
+			</td>
+			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1611279950870372353?s=20&t=xMTAcGtGOsW2bzeGXyWfMg">Tweet</a>
 			</td>
 		</tr>
