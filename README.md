@@ -31,7 +31,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 
 ---
 
-## Client Projects And Apps on The Stores
+<!-- ## Client Projects And Apps on The Stores
 
 <table>
 	<tbody width="100%">
@@ -57,7 +57,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 </a>
 			</div>
     </tbody>
-</table>
+</table> -->
 
 ---
 
