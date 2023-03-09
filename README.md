@@ -68,6 +68,7 @@ If you have any questions or just want to chat about Flutter and open source dev
 	<tr>
 			<th>3D Solar System</th>	
 			<th>Weather App Animation</th>	
+			<th>Shopping App UI</th>
 		</tr>
 		<tr>
 			<td>
@@ -76,6 +77,9 @@ If you have any questions or just want to chat about Flutter and open source dev
 			<td>
 			<img src="https://user-images.githubusercontent.com/32166619/211877404-9a67dc60-a2c3-40a0-a87f-0ec3a860ffab.gif" alt="Weather App Animation"></img>
 			</td>
+						<td>
+			<img src="https://user-images.githubusercontent.com/32166619/224167011-e7ba4af5-1014-453b-bb71-bc1a5bb36788.gif" alt="Shopping App UI"></img>
+			</td>
 		</tr>
 		<tr>
 			<td>
@@ -83,6 +87,9 @@ If you have any questions or just want to chat about Flutter and open source dev
 			</td>
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1611279950870372353?s=20&t=xMTAcGtGOsW2bzeGXyWfMg">Tweet</a>
+			</td>
+			<td>
+				🔗 <a href="https://twitter.com/czarify/status/1633882663055671296?s=20">Tweet</a>
 			</td>
 		</tr>
 		<tr>
