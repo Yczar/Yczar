@@ -145,6 +145,20 @@ If you have any questions or just want to chat about Flutter and open source dev
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1582729505977749509?s=20">Tweet</a>
 			</td>
+	<tr>
+			<th>Lorenz Attractor Animation</th>	
+		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/32166619/224173261-12800f0c-9713-485c-be21-17f92ea9d647.gif" alt="Lorenz Attractor Animation"></img>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://twitter.com/czarify/status/1626492610897477634?s=20">Tweet</a>
+			</td>
+			
+		</tr>
 		</tr>
 	</tbody>
 </table>
