@@ -157,7 +157,6 @@ If you have any questions or just want to chat about Flutter and open source dev
 			<td>
 				🔗 <a href="https://twitter.com/czarify/status/1626492610897477634?s=20">Tweet</a>
 			</td>
-			
 		</tr>
 	</tbody>
 </table>
