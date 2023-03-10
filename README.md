@@ -159,7 +159,6 @@ If you have any questions or just want to chat about Flutter and open source dev
 			</td>
 			
 		</tr>
-		</tr>
 	</tbody>
 </table>
 
